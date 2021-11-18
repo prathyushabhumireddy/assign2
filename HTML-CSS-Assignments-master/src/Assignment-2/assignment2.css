@@ -76,7 +76,11 @@
     border-radius: 10px;
 
 }
+<<<<<<< HEAD
 .mid_container {
+=======
+.mid_container img:hover{
+>>>>>>> 759a7739b6376732e2a1295f963ef2811ae54369
     transform: scale(2,2);
     transition: .3s ;
     border-radius: 5px;
